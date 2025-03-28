@@ -1,6 +1,15 @@
 # SUDOKU SOLVER 
-### *for real man*
+---
+Various sudoku solver, for fun only.
 
+English:
+Then, i wanted to try out this thing because, let's say it, it's cool.
+The first solver is an Evolutionary solver. My favourite one. Not really efficient, but it is really cool.
+The second one (pretty clever) is a Linear Programming solver. Now, to run this you need the license of gurobi, because of the number of variables and constraints exceed the gurobi free licence limit.
+The third one, not finished yet (since the time is gold and its not so important to do that) is a Simulated Annealing solver. This is pretty cool, just a bit less cooler than the evolutive.
+Now, to run everything you need to unzip the "sudku.csv"
+
+Italiano:
 Allora, ho voluto provare questa cosa perché dai, diciamocelo, è figo.
 Quindi ho scritto dei sudoku solver.
 Il primo è un sudoku solver che si basa su una **ES** (evolutionar strategy). Personalmente è il mio preferito, perché è semplicemente stupendo.
